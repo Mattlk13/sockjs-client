@@ -43,7 +43,7 @@
     "gulp-replace": "^1.0.0",
     "gulp-sourcemaps": "^2.6.0",
     "gulp-uglify": "^3.0.2",
-    "karma": "^4.2.0",
+    "karma": "^6.4.1",
     "karma-browserify": "^6.1.0",
     "karma-browserstack-launcher": "^1.5.1",
     "karma-chrome-launcher": "^2.2.0",
